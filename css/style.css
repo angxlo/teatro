@@ -1,0 +1,24 @@
+:root {
+    --bg-color: rgb(19, 36, 54);
+    --text-color: rgb(240, 248, 255);
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+h1 {
+    border-bottom-style: inset;
+}
+
+figure {
+    display: inline-block;
+    font-size: 0.7rem;
+    margin: 5px;
+}
+
+img.poltrona {
+    width: 32.4;
+    height: 24.4749px;
+}
